@@ -8,7 +8,6 @@ const App: React.FC = () => {
   const handleCSVUpload = (csvData: any[]) => {
     setData(csvData);
   };
-
   return (
     <div>
       <h1>Dimensio</h1>
