@@ -2,10 +2,10 @@
 
 ## About
 
-Dimensio helps to visualize high dimensional data (.csv) using popular techniques, UMAP and t-SNE. This project is created using umap-js and three.js libraries.
+Dimensio allows visualization high dimensional data (.csv) using popular techniques, UMAP and t-SNE. This project is created using umap-js and three.js libraries.
 
 ### Helpful Links:
 
-https://github.com/PAIR-code/umap-js
-https://github.com/scienceai/tsne-js
-https://threejs.org/
+* UMAP: https://github.com/PAIR-code/umap-js
+* t-SNE: https://github.com/scienceai/tsne-js
+* Three.js: https://threejs.org/
